@@ -1,0 +1,5 @@
+l=[12,34,5,40,2]
+n=max(l)
+m=min(l)
+x=n-m
+print("difference between largest and smallest",x)
